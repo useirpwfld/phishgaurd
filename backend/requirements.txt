@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy>=2.0
+psycopg[binary]
+python-dotenv
+pydantic>=2
+slowapi
+httpx
+torch
+alembic
+pandas
+scikit-learn
